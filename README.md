@@ -12,6 +12,8 @@
 ## 受講要件（重要）
 本講義は，Office365のオンライン動画配信サービス[Microsoft Stream](https://web.microsoftstream.com/)および[Microsoft Forms](https://forms.office.com/)を利用して行います．動画の視聴および理解度クイズへの回答を行うにあたって，静岡大学によって発行された **静大ID（のパスワード）** が必要となります．
 
+静大IDを用いたMicrosoft StreamおよびMicrosoft Formsへのログイン方法については，静岡大学オンライン教育推進室が公開している「[Office365サインイン方法（学生&教員用）](https://wwp.shizuoka.ac.jp/online-education/office365%e3%82%b5%e3%82%a4%e3%83%b3%e3%82%a4%e3%83%b3%ef%bc%86-ms-stream%e8%a6%96%e8%81%b4%e6%96%b9%e6%b3%95%ef%bc%88%e5%ad%a6%e7%94%9f%e6%95%99%e5%93%a1%e7%94%a8%ef%bc%89/)」の記事をご覧ください．
+
 ## スケジュール
 ### 前半グループ
 |    | 日付 | 内容                       | 資料ページ | 理解度クイズ |
