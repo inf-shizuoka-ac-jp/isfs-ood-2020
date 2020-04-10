@@ -20,7 +20,7 @@
 ### 前半グループ
 |    | 日付 | 内容                       | 資料ページ |
 | --- | ---- | -------------------------- | ---- |
-| 1   | 4/30（木） | オブジェクト指向設計の概要に関する講義，成績評価方法の説明   | [](https://github.com/inf-shizuoka-ac-jp/information-systems-fundamental-seminar-2020/blob/master/OOD-A1.md)      |
+| 1   | 4/30（木） | オブジェクト指向設計の概要に関する講義，成績評価方法の説明   | [link](https://github.com/inf-shizuoka-ac-jp/information-systems-fundamental-seminar-2020/blob/master/OOD-A1.md)      |
 | 2   | 5/6（水） | ユースケースモデリングに関する講義，ユースケース図の作成演習   |      |
 | 3   | 5/11（月） | クラス図に関する講義   |      |
 | 4   | 5/18（月） | クラス図の作成演習  |      |
