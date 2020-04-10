@@ -9,8 +9,10 @@
 ## 講義目的
 情報システム構築のための設計技術のなかで最も基本的な技法の1つである「オブジェクト指向に基づくモデリング技法（OOD）」について，演習を行いながら理解する．
 
-## 受講要件（重要）
-本講義は，Office365のオンライン動画配信サービス[Microsoft Stream](https://web.microsoftstream.com/)および[Microsoft Forms](https://forms.office.com/)を利用して行います．動画の視聴および理解度クイズへの回答を行うにあたって，静岡大学によって発行された **静大ID（のパスワード）** が必要となります．
+## 受講方法（重要）
+本講義は，Office365のオンライン動画配信サービス[Microsoft Stream](https://web.microsoftstream.com/)，ファイル共有サービス[OneDrive](https://onedrive.live.com/)，およびアンケート回答サービス[Microsoft Forms](https://forms.office.com/)を利用して行います．動画の視聴および理解度クイズへの回答を行うにあたって，静岡大学によって発行された **静大ID（のパスワード）** が必要となります．
+
+下記スケジュールの「資料ページ」に記されたリンクをクリックすると，動画を視聴できるページ（Microsoft Stream）へ移動します．また，「理解度クイズ」に記されたリンクをクリックすると，理解度クイズ用のページ（Microsoft Forms）に移動します．どちらのページでもコンテンツを閲覧するためには， **静大IDを利用したOffice365へのログインが必要** となります．
 
 静大IDを用いたMicrosoft StreamおよびMicrosoft Formsへのログイン方法については，静岡大学オンライン教育推進室が公開している「[Office365サインイン方法（学生&教員用）](https://wwp.shizuoka.ac.jp/online-education/office365%e3%82%b5%e3%82%a4%e3%83%b3%e3%82%a4%e3%83%b3%ef%bc%86-ms-stream%e8%a6%96%e8%81%b4%e6%96%b9%e6%b3%95%ef%bc%88%e5%ad%a6%e7%94%9f%e6%95%99%e5%93%a1%e7%94%a8%ef%bc%89/)」の記事をご覧ください．
 
