@@ -5,7 +5,7 @@
 * 理解度クイズ
 
 ## 講義資料
-必ず，以下の順序で視聴してください．動画の視聴，PDF資料のダウンロードには，静大IDを利用してOffice365にログインする必要があります．詳細は
+必ず，以下の順序で視聴してください．動画の視聴，PDF資料のダウンロードには，静大IDを利用してOffice365にログインする必要があります．詳細は静岡大学オンライン教育推進室が公開している「[Office365サインイン方法（学生&教員用）](https://wwp.shizuoka.ac.jp/online-education/office365%e3%82%b5%e3%82%a4%e3%83%b3%e3%82%a4%e3%83%b3%ef%bc%86-ms-stream%e8%a6%96%e8%81%b4%e6%96%b9%e6%b3%95%ef%bc%88%e5%ad%a6%e7%94%9f%e6%95%99%e5%93%a1%e7%94%a8%ef%bc%89/)」の記事をご覧ください．
 1. [PDF資料](https://b.hontolab.org/2Xp1qcQ)
 2. [PDF資料](https://b.hontolab.org/3c5gKiF)
 
