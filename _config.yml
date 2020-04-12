@@ -16,9 +16,7 @@
 title: 静岡大学情報学部 2020年度前期「情報システム基礎演習（OOD）」講義ページ
 email: yusuke_yamamoto@acm.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  静岡大学情報学部 2020年度前期「情報システム基礎演習（OOD）」講義ページ
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -29,7 +27,7 @@ language: ja
 
 # Build settings
 markdown: kramdown
-#theme: mmistakes/minimal-mistakes@4.19.1
+remote_theme: mmistakes/minimal-mistakes@4.19.1
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
