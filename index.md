@@ -4,9 +4,10 @@ layout: single
 #toc_sticky: true
 #toc_label: "TOC"
 author_profile: true
+title: 2020年度前期「情報システム基礎演習（OOD）」
 ---
 
-# 2020年度前期「情報システム基礎演習（OOD）」
+
 ## 開講情報
 
 * 開講時間: 月曜日 3-4限（10:20 – 11:50） & 5−6限（12:45-14:15）
