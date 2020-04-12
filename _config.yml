@@ -17,8 +17,8 @@ title: 静岡大学情報学部 2020年度前期「情報システム基礎演�
 email: yusuke_yamamoto@acm.org
 description: >- # this means to ignore newlines until "baseurl:"
   静岡大学情報学部 2020年度前期「情報システム基礎演習（OOD）」講義ページ
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://inf-shizuoka-ac-jp.github.io/isfs-ood-2020/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/isfs-ood-2020" # the subpath of your site, e.g. /blog
+url: "https://inf-shizuoka-ac-jp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 #twitter_username: jekyllrb
 #github_username:  jekyll
