@@ -31,14 +31,15 @@ title: 「情報システム基礎演習（OOD）」前半グループ 第1回
 
 ### 1. 担当教員の紹介
 
+<div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/8bebcd9e-90cc-46c8-8191-7723cb35f38b?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
 * [PDF資料をダウンロード](https://b.hontolab.org/2yMPyXE)
-* [Microsoft Streamで視聴]()
+* [Microsoft Streamで視聴](https://b.hontolab.org/34uUGvi)
 
 
 ### 2. Astah Professionalのセットアップ
 
-<div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/34740ed3-d4ef-4f75-a482-88215718aeff?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>>
+<div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/34740ed3-d4ef-4f75-a482-88215718aeff?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
 * [PDF資料をダウンロード](https://b.hontolab.org/2Xp1qcQ)
 * [Microsoft Streamで視聴](https://b.hontolab.org/34uXW9Z)
