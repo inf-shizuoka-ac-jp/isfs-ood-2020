@@ -15,10 +15,10 @@ title: 「情報システム基礎演習（OOD）」前半グループ 第1回
 ## 授業内容
 
 1. 教員紹介（動画視聴）
-2. Astah Professionalのセットアップ（動画視聴）
-3. 授業のサポート体制（動画視聴）
-4. 「オブジェクト指向設計の概要」に関する講義 & 成績の評価方法の説明（動画視聴）
-5. 理解度クイズ（本ページ末尾）
+2a. Astah Professionalのセットアップ（動画視聴）
+2b. 授業のサポート体制（動画視聴）
+3. 「オブジェクト指向設計の概要と演習の進め方」に関する講義（動画視聴）
+4. 理解度クイズ（本ページ末尾）
 
 
 ## 講義動画と資料
@@ -45,11 +45,12 @@ title: 「情報システム基礎演習（OOD）」前半グループ 第1回
 * [Microsoft Streamで視聴](https://b.hontolab.org/34uXW9Z)
 
 
-### 4. オブジェクト指向設計の演習の進め方
+### 4. オブジェクト指向設計の概要と演習の進め方
 
+<div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/633b3964-c98d-45d4-8a34-ca41eb32fb22?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
 * [PDF資料をダウンロード](https://b.hontolab.org/2UZVAwW)
-* [Microsoft Streamで視聴]()
+* [Microsoft Streamで視聴](https://b.hontolab.org/2RvhoOz)
 
 
 
