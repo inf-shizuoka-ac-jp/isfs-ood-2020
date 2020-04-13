@@ -55,3 +55,9 @@ author:
       url: "https://hontolab.org/"
     - label: "Lab Website"
       url: "https://design.inf.shizuoka.ac.jp/"
+
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-803440-21"
+    anonymize_ip: false # default
