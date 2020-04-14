@@ -36,22 +36,12 @@ toc: true
 * [Microsoft Streamで視聴](https://b.hontolab.org/34uUGvi)
 
 
-### 2. Astah Professionalのセットアップ
-
-<div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/34740ed3-d4ef-4f75-a482-88215718aeff?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
-
-* [PDF資料をダウンロード](https://b.hontolab.org/2Xp1qcQ)
-* [Microsoft Streamで視聴](https://b.hontolab.org/34uXW9Z)
-
-
-### 3. オブジェクト指向設計の概要と演習の進め方
+### 2. オブジェクト指向設計の概要と演習の進め方
 
 <div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/633b3964-c98d-45d4-8a34-ca41eb32fb22?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
 * [PDF資料をダウンロード](https://b.hontolab.org/2UZVAwW)
 * [Microsoft Streamで視聴](https://b.hontolab.org/2RvhoOz)
-
-
 
 
 ## 理解度クイズ
