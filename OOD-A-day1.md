@@ -8,7 +8,7 @@ toc: true
 
 ## 開講情報
 
-* 開講日：2020年4月30日
+* 開講日：2020年4月30日（木）
 * 開講方法：オンデマンド動画
 * 質問投稿ページ（匿名で質問可）：[リンク先]()
 
@@ -57,6 +57,6 @@ toc: true
 
 ## 何か困ったことがあった場合
 まずは下記メールアドレスまで連絡をください：
-* 山本祐輔: yamamoto+isfs2020@design.inf.shizuoka.ac.jp
 
+山本祐輔：yamamoto+isfs2020@design.inf.shizuoka.ac.jp
 

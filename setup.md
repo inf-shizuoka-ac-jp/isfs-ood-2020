@@ -66,4 +66,5 @@ toc: true
 
 ## 何か困ったことがあった場合
 下記メールアドレスまで連絡をください：
-* 山本祐輔: yamamoto+isfs2020@design.inf.shizuoka.ac.jp
+
+山本祐輔：yamamoto+isfs2020@design.inf.shizuoka.ac.jp
