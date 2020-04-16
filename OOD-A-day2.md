@@ -33,28 +33,30 @@ toc: true
 
 <div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/a68b7199-7f29-4be2-b69d-a61d0d71533f?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
-* [Microsoft Streamで動画を視聴](https://b.hontolab.org/2Vt6zhg)
 * [PDF資料をダウンロード（2.1MB）](https://b.hontolab.org/2K2PO7h)
 * [動画の音声のみをダウンロード（7.6MB）](https://b.hontolab.org/2VBbOeQ)
+* [動画をダウンロード（76.0MB）](https://b.hontolab.org/3cnYWja)
+* [Microsoft Streamで動画を視聴](https://b.hontolab.org/2Vt6zhg)
 
 
 ### 2. 「ユースケースモデリング」に関する講義
 
 <div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/fdf9d2c5-4cd1-4514-a324-15c89e5dae36?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
-* [Microsoft Streamで動画を視聴](https://b.hontolab.org/2V5U6B5)
 * [PDF資料をダウンロード（上記PDF資料と同じです）](https://b.hontolab.org/2K2PO7h)
 * [動画の音声のみをダウンロード（26.4MB）](https://b.hontolab.org/2XAIaJv)
+* [動画をダウンロード（106MB）](https://b.hontolab.org/2RH4hKC)
+* [Microsoft Streamで動画を視聴](https://b.hontolab.org/2V5U6B5)
 
 
 ### 3. ユースケースモデリングの練習
 
 <div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/353bab26-0347-4c51-8533-6b36e8e4b614?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
-* [Microsoft Streamで動画を視聴](https://b.hontolab.org/3eupvVM)
 * [PDF資料をダウンロード（上記PDF資料と同じです）](https://b.hontolab.org/2K2PO7h)
 * [動画の音声のみをダウンロード（1.2MB）](https://b.hontolab.org/2Vbp0Ii)
-
+* [動画をダウンロード（19.6MB）](https://b.hontolab.org/3bd4OM3)
+* [Microsoft Streamで動画を視聴](https://b.hontolab.org/3eupvVM)
 
 
 ## 理解度クイズ
