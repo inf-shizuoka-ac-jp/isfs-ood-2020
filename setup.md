@@ -50,8 +50,9 @@ toc: true
 
 <div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/d98ee489-50ef-447a-a330-33b3f35e92d2?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
+* [Microsoft Streamで動画を視聴](https://b.hontolab.org/3epm171)
 * [PDF資料をダウンロード](https://b.hontolab.org/3efFGGe)
-* [Microsoft Streamで視聴](https://b.hontolab.org/3epm171)
+* [動画の音声のみをダウンロード](https://b.hontolab.org/2xy4wka)
 
 
 ### 3. Astah Professionalのセットアップ
@@ -60,8 +61,9 @@ toc: true
 
 <div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/34740ed3-d4ef-4f75-a482-88215718aeff?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
+* [Microsoft Streamで動画を視聴](https://b.hontolab.org/34uXW9Z)
 * [PDF資料をダウンロード](https://b.hontolab.org/2Xp1qcQ)
-* [Microsoft Streamで視聴](https://b.hontolab.org/34uXW9Z)
+* [動画の音声のみをダウンロード](https://b.hontolab.org/2VfUNYZ)
 
 
 ## 何か困ったことがあった場合
