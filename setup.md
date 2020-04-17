@@ -50,9 +50,9 @@ toc: true
 
 <div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/d98ee489-50ef-447a-a330-33b3f35e92d2?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
-* [PDF資料をダウンロード（2.6MB）](https://b.hontolab.org/3efFGGe)
-* [動画の音声のみをダウンロード（4.8MB）](https://b.hontolab.org/2xy4wka)
-* [動画をダウンロード（57.4MB）](https://b.hontolab.org/2xpgaxT)
+* [PDF資料をダウンロード（2.7MB）](https://b.hontolab.org/2xBwjAd)
+* [動画の音声のみをダウンロード（4.6MB）](https://b.hontolab.org/2xy4wka)
+* [動画をダウンロード（38.4MB）](https://b.hontolab.org/2xpgaxT)
 * [Microsoft Streamで動画を視聴](https://b.hontolab.org/3epm171)
 
 
