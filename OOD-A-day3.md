@@ -30,40 +30,50 @@ toc: true
 {: .notice--info}
 
 
-### 1. 第2回目の授業（OOD-2）で出題した理解度クイズの解説
+### 1. 第2回目の授業（OOD-2）で出題したユースケース図の作成演習の課題の解説
 
-* [PDF資料をダウンロード（MB）]()
+<div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/9260d972-f320-48be-ad62-a4799991ab4f?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+
+* [PDF資料をダウンロード（1.1MB）](https://b.hontolab.org/3cndzDh)
+* [動画の音声のみをダウンロード（5.1MB）](https://b.hontolab.org/3cqNHX0)
+* [動画をダウンロード（57MB）](https://b.hontolab.org/3afhRLz)
+* [Microsoft Streamで動画を視聴](https://b.hontolab.org/2xB2Hmw)
+
+
+### 2. 第2回目の授業（OOD-2）で出題した理解度クイズの解説
+
+* [PDF資料をダウンロード（上記資料と同じです）（1.1MB）](https://b.hontolab.org/3cndzDh)
 * [動画の音声のみをダウンロード（MB）]()
 * [動画をダウンロード（MB）]()
 * [Microsoft Streamで動画を視聴]()
 
 
-### 2. 「クラス図」に関する講義1
+### 3. 「クラス図」に関する講義1
 
 <div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/f0100323-82b3-4134-ae48-dcb2bc40ae03?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
 * [PDF資料をダウンロード（5.3MB）](https://b.hontolab.org/2XGb1w4)
-* [動画の音声のみをダウンロード（8.7MB）](https://b.hontolab.org/2RC0Swv)
+* [動画の音声のみをダウンロード（11.3MB）](https://b.hontolab.org/2S0kOJN)
 * [動画をダウンロード（104MB）](https://b.hontolab.org/2RIgrTd)
 * [Microsoft Streamで動画を視聴](https://b.hontolab.org/3beB9lp)
 
 
-### 3. 「クラス図」に関する講義2
+### 4. 「クラス図」に関する講義2
 
 <div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/984b0727-34dd-4451-aa40-bd9d8a634d9c?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
 * [PDF資料をダウンロード（上記資料と同じです）（5.3MB）](https://b.hontolab.org/2XGb1w4)
-* [動画の音声のみをダウンロード（9.1MB）](https://b.hontolab.org/2K6bG1P)
+* [動画の音声のみをダウンロード（11.9MB）](https://b.hontolab.org/34KqEUo)
 * [動画をダウンロード（111MB）](https://b.hontolab.org/2z6hN3R)
 * [Microsoft Streamで動画を視聴](https://b.hontolab.org/3bfiCWe)
 
 
-### 4. 「クラス図」に関する講義3
+### 5. 「クラス図」に関する講義3
 
 <div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/3511dfae-d611-4ec7-a8c4-98c69d5c55d4?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
 * [PDF資料をダウンロード（上記資料と同じです）（5.3MB）](https://b.hontolab.org/2XGb1w4)
-* [動画の音声のみをダウンロード（9.5MB）](https://b.hontolab.org/2XH4X6m)
+* [動画の音声のみをダウンロード（12.4MB）](https://b.hontolab.org/2XJMWV0)
 * [動画をダウンロード（129MB）](https://b.hontolab.org/2RJTOxX)
 * [Microsoft Streamで動画を視聴](https://b.hontolab.org/3eqh4e2)
 
