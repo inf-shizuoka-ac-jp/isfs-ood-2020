@@ -13,8 +13,8 @@ title: 2020年度前期「情報システム基礎演習（OOD）」
 * 開講時間: 月曜日 3-4限（10:20 – 11:50） & 5−6限（12:45-14:15）
 * 場所: **（COVID-19問題が解決するまで）オンライン**
 * 担当: 情報学部行動情報学科 講師: 山本祐輔
-  * 電子メール：yamamoto@inf.shizuoka.ac.jp
-  * 教員ウェブサイト：https://hontolab.org/
+  * 電子メール：yamamoto+isfs2020@design.inf.shizuoka.ac.jp
+  * 教員ウェブサイト：[https://hontolab.org/](https://hontolab.org/)
 
 
 ## 講義目的
@@ -64,7 +64,7 @@ title: 2020年度前期「情報システム基礎演習（OOD）」
 ## レポート課題
 ### 提出方法
 
-学務情報システムを経由して指示を出します．
+学務情報システム/Microsoft Teams等を経由して指示を出します．
 
 
 ### 〆切り
