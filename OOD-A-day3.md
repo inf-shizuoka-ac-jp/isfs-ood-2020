@@ -43,10 +43,12 @@ toc: true
 
 ### 2. 第2回目の授業（OOD-2）で出題した理解度クイズの解説
 
+<div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/8ff883f5-bdaa-4ed8-90db-b59d9ffc2db5?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+
 * [PDF資料をダウンロード（上記資料と同じです）（1.1MB）](https://b.hontolab.org/3cndzDh)
-* [動画の音声のみをダウンロード（MB）]()
-* [動画をダウンロード（MB）]()
-* [Microsoft Streamで動画を視聴]()
+* [動画の音声のみをダウンロード（15.1MB）](https://b.hontolab.org/2xHJdwD)
+* [動画をダウンロード（204MB）](https://b.hontolab.org/2VfK00C)
+* [Microsoft Streamで動画を視聴](https://b.hontolab.org/3cr5Cgd)
 
 
 ### 3. 「クラス図」に関する講義1
@@ -85,7 +87,7 @@ toc: true
 システムを用いて回答を受け付けますので，〆切が来たら機械的に回答受付を終了します．
 {: .notice--warning}
 
-* 回答ページ：[]()
+* 回答ページ：[https://b.hontolab.org/2yn5zn1](https://b.hontolab.org/2yn5zn1)
 * 受付開始時間：2020年 **5月11日（月）10:00**
 * 受付終了時間：2020年 **5月17日（日）14:30（厳守）**
 
