@@ -38,7 +38,7 @@ toc: true
 * [PDF資料をダウンロード（1.1MB）](https://b.hontolab.org/3cndzDh)
 * [動画の音声のみをダウンロード（5.1MB）](https://b.hontolab.org/3cqNHX0)
 * [動画をダウンロード（57MB）](https://b.hontolab.org/3afhRLz)
-* [Microsoft Streamで動画を視聴](https://b.hontolab.org/2xB2Hmw)
+<!--* [Microsoft Streamで動画を視聴](https://b.hontolab.org/2xB2Hmw)-->
 
 
 ### 2. 第2回目の授業（OOD-2）で出題した理解度クイズの解説
@@ -48,7 +48,7 @@ toc: true
 * [PDF資料をダウンロード（上記資料と同じです）（1.1MB）](https://b.hontolab.org/3cndzDh)
 * [動画の音声のみをダウンロード（15.1MB）](https://b.hontolab.org/2xHJdwD)
 * [動画をダウンロード（204MB）](https://b.hontolab.org/2VfK00C)
-* [Microsoft Streamで動画を視聴](https://b.hontolab.org/3cr5Cgd)
+<!--* [Microsoft Streamで動画を視聴](https://b.hontolab.org/3cr5Cgd)-->
 
 
 ### 3. 「クラス図」に関する講義1
@@ -58,7 +58,7 @@ toc: true
 * [PDF資料をダウンロード（5.3MB）](https://b.hontolab.org/2XGb1w4)
 * [動画の音声のみをダウンロード（11.3MB）](https://b.hontolab.org/2S0kOJN)
 * [動画をダウンロード（104MB）](https://b.hontolab.org/2RIgrTd)
-* [Microsoft Streamで動画を視聴](https://b.hontolab.org/3beB9lp)
+<!--* [Microsoft Streamで動画を視聴](https://b.hontolab.org/3beB9lp)-->
 
 
 ### 4. 「クラス図」に関する講義2
@@ -68,7 +68,7 @@ toc: true
 * [PDF資料をダウンロード（上記資料と同じです）（5.3MB）](https://b.hontolab.org/2XGb1w4)
 * [動画の音声のみをダウンロード（11.9MB）](https://b.hontolab.org/34KqEUo)
 * [動画をダウンロード（111MB）](https://b.hontolab.org/2z6hN3R)
-* [Microsoft Streamで動画を視聴](https://b.hontolab.org/3bfiCWe)
+<!--* [Microsoft Streamで動画を視聴](https://b.hontolab.org/3bfiCWe)-->
 
 
 ### 5. 「クラス図」に関する講義3
@@ -78,7 +78,7 @@ toc: true
 * [PDF資料をダウンロード（上記資料と同じです）（5.3MB）](https://b.hontolab.org/2XGb1w4)
 * [動画の音声のみをダウンロード（12.4MB）](https://b.hontolab.org/2XJMWV0)
 * [動画をダウンロード（129MB）](https://b.hontolab.org/2RJTOxX)
-* [Microsoft Streamで動画を視聴](https://b.hontolab.org/3eqh4e2)
+<!--* [Microsoft Streamで動画を視聴](https://b.hontolab.org/3eqh4e2)-->
 
 
 ## 理解度クイズ

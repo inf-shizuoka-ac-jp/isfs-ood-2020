@@ -53,7 +53,7 @@ toc: true
 * [PDF資料をダウンロード（2.7MB）](https://b.hontolab.org/2xBwjAd)
 * [動画の音声のみをダウンロード（4.6MB）](https://b.hontolab.org/2xy4wka)
 * [動画をダウンロード（38.4MB）](https://b.hontolab.org/2xpgaxT)
-* [Microsoft Streamで動画を視聴](https://b.hontolab.org/3epm171)
+<!--* [Microsoft Streamで動画を視聴](https://b.hontolab.org/3epm171)-->
 
 
 ### 3. Astah Professionalのセットアップ
@@ -65,7 +65,7 @@ toc: true
 * [PDF資料をダウンロード（2.2MB）](https://b.hontolab.org/2Xp1qcQ)
 * [動画の音声のみをダウンロード（5.6MB）](https://b.hontolab.org/2VfUNYZ)
 * [動画をダウンロード（65.7MB）](https://b.hontolab.org/3cqXxbD)
-* [Microsoft Streamで動画を視聴](https://b.hontolab.org/34uXW9Z)
+<!--* [Microsoft Streamで動画を視聴](https://b.hontolab.org/34uXW9Z)-->
 
 
 ## 何か困ったことがあった場合

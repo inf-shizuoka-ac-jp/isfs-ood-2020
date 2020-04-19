@@ -35,7 +35,7 @@ toc: true
 * [PDF資料をダウンロード（1.9MB）](https://b.hontolab.org/2yMPyXE)
 * [動画の音声のみをダウンロード（6.6MB）](https://b.hontolab.org/3eqhPUp)
 * [動画をダウンロード（34.1MB）](https://b.hontolab.org/34CDog2)
-* [Microsoft Streamで動画を視聴](https://b.hontolab.org/34uUGvi)
+<!--* [Microsoft Streamで動画を視聴](https://b.hontolab.org/34uUGvi)-->
 
 
 ### 2. オブジェクト指向設計の概要と演習の進め方
@@ -45,7 +45,7 @@ toc: true
 * [PDF資料をダウンロード（2.7MB）](https://b.hontolab.org/2UZVAwW)
 * [動画の音声のみをダウンロード（39MB）](https://b.hontolab.org/3bgzrQs)
 * [動画をダウンロード（316MB）](https://b.hontolab.org/3aeLAEl)
-* [Microsoft Streamで動画を視聴](https://b.hontolab.org/2RvhoOz)
+<!--* [Microsoft Streamで動画を視聴](https://b.hontolab.org/2RvhoOz)-->
 
 
 ## 理解度クイズ
