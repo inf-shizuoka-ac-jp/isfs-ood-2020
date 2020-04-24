@@ -47,7 +47,7 @@ toc: true
 
 * [PDF資料をダウンロード（2.7MB）](https://b.hontolab.org/2UZVAwW)
 * [動画の音声のみをダウンロード（15.4MB）](https://scii-my.sharepoint.com/:u:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/EejbZpWaa2tFrjn6L2kpnBUBjmmAOWNRlppqu6jDwhp_Pw?e=A1FEYX)
-* [動画をダウンロード（113MB）](https://scii-my.sharepoint.com/:v:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/EffhUYs0aORJoXoODxaN_d0B4Of2NBXPaAPvRsvDi9YZrQ?e=Zzgu4W)
+* [動画をダウンロード（113MB）](https://scii-my.sharepoint.com/:v:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/EffhUYs0aORJoXoODxaN_d0BJvS1_IJPVyw2qJV6hB0LDQ?e=ogVYeY)
 
 
 #### 2b. オブジェクト指向で作るゲーム & UML（16分16秒）
@@ -55,7 +55,7 @@ toc: true
 <div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/952e883e-4e47-442c-959b-314c8770e5b4?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
 * [PDF資料をダウンロード（上記PDF資料と同じです）（2.7MB）](https://b.hontolab.org/2UZVAwW)
-* [動画の音声のみをダウンロード（14.9MB）](https://scii-my.sharepoint.com/:u:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/EWDEktHqUrhPiwtqIRailg8BIOEdxjFBmwNvBmlLuL5F2A?e=FyIaV6)
+* [動画の音声のみをダウンロード（14.9MB）](https://scii-my.sharepoint.com/:u:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/EWDEktHqUrhPiwtqIRailg8BT0YvsHT4Rd28VZM6d7P6IQ?e=JAh614)
 * [動画をダウンロード（142MB）](https://scii-my.sharepoint.com/:v:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/Efmy0jg4g4lLqyMSqoNqrX0BhPN-E0feWNJ-myxlbDHclg?e=K1cQjf)
 
 
