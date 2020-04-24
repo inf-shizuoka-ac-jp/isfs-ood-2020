@@ -24,7 +24,7 @@ title: 2020年度前期「情報システム基礎演習（OOD）」
 
 ## 受講方法（重要）
 
-本講義は，Office365のオンライン動画配信サービス[Microsoft Stream](https://web.microsoftstream.com/)，ファイル共有サービス[OneDrive](https://onedrive.live.com/)，およびアンケート回答サービス[Microsoft Forms](https://forms.office.com/)を利用して行います．
+本講義は，Office365のグループチャットソフト[Microsoft Teams](https://www.microsoft.com/ja-jp/microsoft-365/microsoft-teams/group-chat-software)，オンライン動画配信サービス[Microsoft Stream](https://web.microsoftstream.com/)，ファイル共有サービス[OneDrive](https://onedrive.live.com/)，およびアンケート回答サービス[Microsoft Forms](https://forms.office.com/)を利用して行います．
 
 下記スケジュールの「資料ページ」に記されたリンクをクリックすると，講義動画の視聴，講義資料のダウンロード，理解度クイズを行うページへ移動します．授業コンテンツを利用するためには， **静大IDを利用したOffice365へのログインが必要** となります．
 
