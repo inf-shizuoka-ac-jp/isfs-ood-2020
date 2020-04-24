@@ -10,7 +10,7 @@ toc: true
 
 * 開講日：2020年4月30日（木）
 * 開講方法：オンデマンド動画
-* 質問投稿ページ（匿名で質問可）：[リンク先]()
+* 質問投稿ページ（匿名で質問可）：[リンク先](https://app.sli.do/event/cs8xsr1e)
 
 
 ## 授業内容
@@ -31,24 +31,42 @@ toc: true
 {: .notice--warning}
 
 
-### 1. 担当教員の紹介
+### 1. 担当教員の紹介（11分12秒）
 
 <div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/8bebcd9e-90cc-46c8-8191-7723cb35f38b?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
 * [PDF資料をダウンロード（1.9MB）](https://b.hontolab.org/2yMPyXE)
 * [動画の音声のみをダウンロード（6.6MB）](https://b.hontolab.org/3eqhPUp)
 * [動画をダウンロード（34.1MB）](https://b.hontolab.org/34CDog2)
-<!--* [Microsoft Streamで動画を視聴](https://b.hontolab.org/34uUGvi)-->
 
 
 ### 2. オブジェクト指向設計の概要と演習の進め方
+#### 2a. オブジェクト指向設計とは？（16分46秒）
 
-<div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/633b3964-c98d-45d4-8a34-ca41eb32fb22?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+<div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/18414b6f-17f5-4c87-879b-28e78eee376a?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
 * [PDF資料をダウンロード（2.7MB）](https://b.hontolab.org/2UZVAwW)
-* [動画の音声のみをダウンロード（39MB）](https://b.hontolab.org/3bgzrQs)
-* [動画をダウンロード（316MB）](https://b.hontolab.org/3aeLAEl)
-<!--* [Microsoft Streamで動画を視聴](https://b.hontolab.org/2RvhoOz)-->
+* [動画の音声のみをダウンロード（15.4MB）](https://scii-my.sharepoint.com/:u:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/EejbZpWaa2tFrjn6L2kpnBUBjmmAOWNRlppqu6jDwhp_Pw?e=A1FEYX)
+* [動画をダウンロード（113MB）](https://scii-my.sharepoint.com/:v:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/EffhUYs0aORJoXoODxaN_d0B4Of2NBXPaAPvRsvDi9YZrQ?e=Zzgu4W)
+
+
+#### 2b. オブジェクト指向で作るゲーム & UML（16分16秒）
+
+<div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/952e883e-4e47-442c-959b-314c8770e5b4?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+
+* [PDF資料をダウンロード（上記PDF資料と同じです）（2.7MB）](https://b.hontolab.org/2UZVAwW)
+* [動画の音声のみをダウンロード（14.9MB）](https://scii-my.sharepoint.com/:u:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/EWDEktHqUrhPiwtqIRailg8BIOEdxjFBmwNvBmlLuL5F2A?e=FyIaV6)
+* [動画をダウンロード（142MB）](https://scii-my.sharepoint.com/:v:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/Efmy0jg4g4lLqyMSqoNqrX0BhPN-E0feWNJ-myxlbDHclg?e=K1cQjf)
+
+
+#### 2c. 授業の進め方 & 成績評価（7分31秒）
+
+<div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/363e0cba-2754-4ca0-95bf-dbc97aaf5379?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+
+* [PDF資料をダウンロード（上記PDF資料と同じです）（2.7MB）](https://b.hontolab.org/2UZVAwW)
+* [動画の音声のみをダウンロード（6.89MB）](https://scii-my.sharepoint.com/:u:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/ETbA7KMF_zFOqxajCh0nXXgBZ_GRdwVHf8ItOt6NQW0XrQ?e=xxGvZr)
+* [動画をダウンロード（59.7MB）](https://scii-my.sharepoint.com/:v:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/ETSMxXu7uahForUqXXvII1wBaVJUJSbnvt3TU843Yt8nqw?e=NWoMsg)
+
 
 
 ## 理解度クイズ
