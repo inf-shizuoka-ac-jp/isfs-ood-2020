@@ -39,8 +39,8 @@ toc: true
 <div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/9260d972-f320-48be-ad62-a4799991ab4f?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
 * [PDF資料をダウンロード（1.1MB）](https://b.hontolab.org/3cndzDh)
-* [動画の音声のみをダウンロード（5.1MB）](https://b.hontolab.org/3cqNHX0)
-* [動画をダウンロード（57MB）](https://b.hontolab.org/3afhRLz)
+* [動画の音声のみをダウンロード（5.1MB）](https://scii-my.sharepoint.com/:u:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/EbpWYQBL5ktOj60BjA6iipkBgBVd2ZxISSGXnQgzg5djwQ?e=GQOn5V)
+* [動画をダウンロード（57MB）](https://scii-my.sharepoint.com/:v:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/EcLxuuZal4VHoyZy7A5StZsBtlNRJa5P4BqFj1tayBkJVQ?e=uVhLlM)
 
 
 ### 2. 第2回目の授業（OOD-2）で出題した理解度クイズの解説（32分55秒）
@@ -56,7 +56,7 @@ toc: true
 
 <div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/f0100323-82b3-4134-ae48-dcb2bc40ae03?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
-* [PDF資料をダウンロード（5.3MB）](https://b.hontolab.org/2XGb1w4)
+* [PDF資料をダウンロード（5.3MB）](https://scii-my.sharepoint.com/:b:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/EZKp0wwJQMhDo53DRdKHtr8BqLq3-a2w16R19MW7ksicLQ?e=eeAbzU)
 * [動画の音声のみをダウンロード（11.3MB）](https://b.hontolab.org/2S0kOJN)
 * [動画をダウンロード（104MB）](https://b.hontolab.org/2RIgrTd)
 
@@ -65,7 +65,7 @@ toc: true
 
 <div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/984b0727-34dd-4451-aa40-bd9d8a634d9c?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
-* [PDF資料をダウンロード（上記資料と同じです）（5.3MB）](https://b.hontolab.org/2XGb1w4)
+* [PDF資料をダウンロード（上記資料と同じです）（5.3MB）](https://scii-my.sharepoint.com/:b:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/EZKp0wwJQMhDo53DRdKHtr8BqLq3-a2w16R19MW7ksicLQ?e=eeAbzU)
 * [動画の音声のみをダウンロード（11.9MB）](https://b.hontolab.org/34KqEUo)
 * [動画をダウンロード（111MB）](https://b.hontolab.org/2z6hN3R)
 
@@ -74,9 +74,9 @@ toc: true
 
 <div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/3511dfae-d611-4ec7-a8c4-98c69d5c55d4?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
-* [PDF資料をダウンロード（上記資料と同じです）（5.3MB）](https://b.hontolab.org/2XGb1w4)
+* [PDF資料をダウンロード（上記資料と同じです）（5.3MB）](https://scii-my.sharepoint.com/:b:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/EZKp0wwJQMhDo53DRdKHtr8BqLq3-a2w16R19MW7ksicLQ?e=eeAbzU)
 * [動画の音声のみをダウンロード（12.4MB）](https://b.hontolab.org/2XJMWV0)
-* [動画をダウンロード（129MB）](https://b.hontolab.org/2RJTOxX)
+* [動画をダウンロード（129MB）](https://scii-my.sharepoint.com/:v:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/ER3pVPa9SHBIjssx4XnqGn0Bfpex9TfhxHZS58DRf2AVkQ?e=Sic3J3)
 
 
 ## 理解度クイズ
