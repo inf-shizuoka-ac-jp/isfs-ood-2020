@@ -10,6 +10,7 @@ toc: true
 
 * 開講日：2020年4月中旬-下旬
 * 開講方法：オンデマンド動画 & テキスト
+* 質問投稿ページ（匿名で質問可）：[リンク先](https://app.sli.do/event/x2ldlfxk)
 
 
 ## 内容
@@ -48,7 +49,7 @@ toc: true
 {: .notice--warning}
 
 
-### 2. 授業のサポート方法について
+### 2. 授業のサポート方法について（11分12秒）
 
 授業のサポート方法についてまとめましたので，必ず確認しておいてください．
 
@@ -58,10 +59,9 @@ toc: true
 * [PDF資料をダウンロード（2.7MB）](https://b.hontolab.org/2xBwjAd)
 * [動画の音声のみをダウンロード（4.6MB）](https://b.hontolab.org/2xy4wka)
 * [動画をダウンロード（38.4MB）](https://b.hontolab.org/2xpgaxT)
-<!--* [Microsoft Streamで動画を視聴](https://b.hontolab.org/3epm171)-->
 
 
-### 3. Astah Professionalのセットアップ
+### 3. Astah Professionalのセットアップ（11分45秒）
 
 本授業では，Astah Professionalというソフトウェアを利用します．下記資料を参考にして，初回の授業が始まるまでに各自のPCにAstah Professionalをインストールしておいてください．
 
@@ -70,7 +70,6 @@ toc: true
 * [PDF資料をダウンロード（2.2MB）](https://b.hontolab.org/2Xp1qcQ)
 * [動画の音声のみをダウンロード（5.6MB）](https://b.hontolab.org/2VfUNYZ)
 * [動画をダウンロード（65.7MB）](https://b.hontolab.org/3cqXxbD)
-<!--* [Microsoft Streamで動画を視聴](https://b.hontolab.org/34uXW9Z)-->
 
 
 ## 何か困ったことがあった場合
