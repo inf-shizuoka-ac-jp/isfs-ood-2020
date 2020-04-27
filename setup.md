@@ -50,6 +50,10 @@ toc: true
 
 <div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/428271fc-d02e-4b62-9274-6abc8e4b4666?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
+* [PDF資料をダウンロード（0.3MB）](https://scii-my.sharepoint.com/:b:/g/personal/shirai_yasuto_cii_shizuoka_ac_jp/Eaja7tzEedFFrdhOYtGyokABtlqbStQx9DF1dx7pALrnZg?e=0Biu2M)
+* [動画の音声のみをダウンロード（14.6MB）](https://scii-my.sharepoint.com/:u:/g/personal/shirai_yasuto_cii_shizuoka_ac_jp/EWp1GcpxIb1GsX7V1ONKBpUB1lWh1tTntWqPVA4nnYLLTg?e=dqceu4)
+* [動画をダウンロード（152MB）](https://scii-my.sharepoint.com/:v:/g/personal/shirai_yasuto_cii_shizuoka_ac_jp/ERyKkz5x59JOj-rmwXBkO-UBSxTDxpVgxBQCvuuaaMp26g?e=tirZ8V)
+
 
 ### 2. 授業のサポート方法について（11分12秒）
 
