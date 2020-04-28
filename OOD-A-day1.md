@@ -75,9 +75,10 @@ toc: true
 システムを用いて回答を受け付けますので，〆切が来たら機械的に回答受付を終了します．
 {: .notice--warning}
 
-* 回答ページ：[https://b.hontolab.org/3ei5xx4](https://b.hontolab.org/3ei5xx4)
 * 受付開始時間：2020年 **4月28日（火）10:00**
 * 受付終了時間：2020年 **5月5日（火）14:30（厳守）**
+
+[理解度クイズに回答する](https://b.hontolab.org/3ei5xx4){: .btn .btn--primary .btn--large .btn--info}
 
 
 ## 何か困ったことがあった場合
