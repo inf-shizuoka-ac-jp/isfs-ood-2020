@@ -32,13 +32,13 @@ toc: true
 {: .notice--warning}
 
 
-### 1. 第1回目の授業（OOD-1）で出題した理解度クイズの解説（15分48秒）
+<!-- ### 1. 第1回目の授業（OOD-1）で出題した理解度クイズの解説（15分48秒）
 
 <div style='max-width: 1280px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/a68b7199-7f29-4be2-b69d-a61d0d71533f?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
 * [PDF資料をダウンロード（2.1MB）](https://b.hontolab.org/2K2PO7h)
 * [動画の音声のみをダウンロード（7.6MB）](https://b.hontolab.org/2VBbOeQ)
-* [動画をダウンロード（76.0MB）](https://b.hontolab.org/3cnYWja)
+* [動画をダウンロード（76.0MB）](https://b.hontolab.org/3cnYWja) -->
 
 
 ### 2. 「ユースケースモデリング」に関する講義（27分28秒）
@@ -66,7 +66,7 @@ toc: true
 {: .notice--warning}
 
 * [回答ページへのリンク]()
-* 受付開始時間：2020年 **5月6日（水）10:00**
+* 受付開始時間：2020年 **5月1日（金）10:00**
 * 受付終了時間：2020年 **5月10日（日）14:30（厳守）**
 
 [理解度クイズに回答する](https://b.hontolab.org/2XASRMe){: .btn .btn--primary .btn--large .btn--info}
