@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /b/day3
+permalink: /e/day3
 author_profile: true
 title: 「情報システム基礎演習（OOD）」後半グループ 第3回
 toc: true

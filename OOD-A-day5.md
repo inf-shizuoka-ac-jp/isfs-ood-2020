@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /a/day5
+permalink: /o/day5
 author_profile: true
 title: 「情報システム基礎演習（OOD）」前半グループ 第5回
 toc: true
